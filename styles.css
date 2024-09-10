@@ -1,0 +1,19 @@
+li {
+    background-color: coral;
+}
+
+li {
+    background-color: beige;
+    color: pink;
+}
+
+.para_h2{
+    color: darkcyan;
+    font-size: 45;
+    margin: 0;
+}
+
+body{
+    background-image: url("bg_img.jpg");
+    border: 2px solid black;
+}
